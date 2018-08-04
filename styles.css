@@ -65,7 +65,12 @@ p{
 .a7{width: 98%;}
 .a8{width: 98%;}
 .a9{width: 98%;}
+*{
+  font-size: 25px;
 }
+}
+
+
 @media only screen and (min-width:600px) and (max-width:799px){
 .container{
   display: flex;
